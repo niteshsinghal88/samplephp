@@ -6,7 +6,7 @@ It accepts InstanceCount, InstanceName, AccessKeyID & SecretAccessKey as input p
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Hi Dockerized Atul Nitesh</title>
+        <title>Hi Docker</title>
         <!-- Bootstrap core CSS -->
 <!--        <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css"/> -->
         <!-- Bootstrap theme -->
@@ -31,14 +31,14 @@ It accepts InstanceCount, InstanceName, AccessKeyID & SecretAccessKey as input p
                 <div class="row">
                     <div class="col-md-12">
                         <div class="well well-lg text-center">
-                            <h4>Chal gaya on Docker :)</h4>
+                            <h4>WE HAVE DONE IT :)</h4>
                         </div>
                     </div>
                 </div>
 
                 <div class="row">
                     <div class="col-md-12" style="padding-left: 20px; padding-right: 20px">
-                        <?php echo phpinfo(); ?>
+                      <!--  <?php echo phpinfo(); ?> -->
                     </div>
                 </div>
             </div>
