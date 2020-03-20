@@ -38,7 +38,7 @@ It accepts InstanceCount, InstanceName, AccessKeyID & SecretAccessKey as input p
 
                 <div class="row">
                     <div class="col-md-12" style="padding-left: 20px; padding-right: 20px">
-                      <!--  <?php echo phpinfo(); ?> -->
+                        <?php echo phpinfo(); ?> 
                     </div>
                 </div>
             </div>
