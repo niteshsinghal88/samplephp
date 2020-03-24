@@ -17,7 +17,7 @@ It accepts InstanceCount, InstanceName, AccessKeyID & SecretAccessKey as input p
         <nav class="navbar navbar-inverse navbar-fixed-top">
             <div class="container">
                 <div class="navbar-header">
-                    <a class="navbar-brand" href="#">My PHP Application On Docker1</a>
+                    <a class="navbar-brand" href="#">My PHP Application On Docker</a>
                 </div>
                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                     <ul class="nav navbar-nav navbar-right">
@@ -38,7 +38,7 @@ It accepts InstanceCount, InstanceName, AccessKeyID & SecretAccessKey as input p
 
                 <div class="row">
                     <div class="col-md-12" style="padding-left: 20px; padding-right: 20px">
-                        <?php echo phpinfo(); ?> 
+                      <!--  <?php echo phpinfo(); ?> -->
                     </div>
                 </div>
             </div>
