@@ -31,7 +31,7 @@ It accepts InstanceCount, InstanceName, AccessKeyID & SecretAccessKey as input p
                 <div class="row">
                     <div class="col-md-12">
                         <div class="well well-lg text-center">
-                            <h4>WE HAVE DONE IT :)</h4>
+                            <h4>Demo test :)</h4>
                         </div>
                     </div>
                 </div>
